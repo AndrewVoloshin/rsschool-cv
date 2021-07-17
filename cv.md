@@ -14,13 +14,13 @@ Thanks to the desire for knowledge, as well as higher education, mathematical mi
 - JavaScript 
 - Git/Github 
 - Java core, OOP
- 
- ### Education:
- - Kharkov Aviation University. Department of Rocket and Space Engineering
- - Regional center RCNIT - Java Course
- - Youtube courses and video
+
+
+### Education:
+- Kharkov Aviation University. Department of Rocket and Space Engineering 
+- Regional center RCNIT - Java Course
+- Youtube courses and video
 - The Rolling Scopes School (currently)
-             
-  
+
 ### English:
-  A2 according to the Common European Framework of Reference (CEFR).
+A2 according to the Common European Framework of Reference (CEFR).
